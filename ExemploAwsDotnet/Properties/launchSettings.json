@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "ExemploAwsDotnet": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
